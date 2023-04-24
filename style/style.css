@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.container h1{
+    font-size: 3em;
+}
+
+.container{
+    color: #fff;
+    text-align: center;
+    margin-top: 5em;
+}
+
+.container .start-btn{
+    background-color: #008000;
+    color: #fff;
+    width: 8em;
+    height: 3em;
+}
+
+.start:houver{
+    cursor: pointer;
+}
+
+.container .stop-btn{
+    background-color: #ff0000;
+    color: #fff;
+    width: 8em;
+    height: 3em;
+}
+
+.stop:houver{
+    cursor: pointer;
+}
+
+.container .restart-btn{
+    background-color: #ffa500;
+    color: #fff;
+    width: 8em;
+    height: 3em;
+}
+
+.restart:houver{
+    cursor: pointer;
+}
